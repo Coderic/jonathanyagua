@@ -1,8 +1,7 @@
 # Site settings
 name: Jonathan Yagua
 description: "Vicepresidente de Coderic"
-url: "https://jonathan.coderic.net"
-
+baseurl: "/jonathanyagua"
 
 # Delete the lines you don't need
 # about 5 elements are recomended
